@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Wael
+- 👋 Hi, I’m Wael Fakhrji
 - 👀 I’m interested in Programacion
 - 🌱 I’m currently learning  Full-Stack development
 - 💞️ I’m looking to collaborate on ...
